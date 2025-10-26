@@ -3,7 +3,7 @@
  About
 AI Augmented Code Reviewer is an AI-powered tool that helps developers write better code by providing instant reviews, best practice suggestions, performance tips, and security checks. It supports live code preview, syntax highlighting, dark/light mode, and PDF export of reviews.
 
- · [Report Bug](#) · [Request Feature](#)
+ · [Report Bug](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues) · [Request Feature](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues)
 
  Features
 - **AI Code Review:** Analyze code for readability, best practices, and performance.
@@ -17,9 +17,9 @@ AI Augmented Code Reviewer is an AI-powered tool that helps developers write bet
 ---
 
 ## Built With
-- **Frontend:** React, Prism.js  
-- **Backend:** Node.js, Express  
-- **AI Engine:** Google Gemini AI  
+- **Frontend:** [React](https://react.dev/learn), [Prism.js](https://prismjs.com/)  
+- **Backend:** [Node.js](https://nodejs.org/en/download), [Express](https://expressjs.com/)  
+- **AI Engine:** [Google Gemini AI Studio ](https://aistudio.google.com/)
 
 ---
 

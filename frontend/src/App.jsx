@@ -81,7 +81,7 @@ const App = () => {
   return (
     <div className={`app-container ${darkMode ? "dark" : "light"}`}>
       <header className="app-header">
-        <h1>AI Code Reviewer</h1>
+        <h1>CodeMentor AI</h1>
 
         <div className="header-actions">
           <label className="switch">

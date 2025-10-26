@@ -1,6 +1,6 @@
 # CodeMentor AI - Augmented Code Reviewer
 
-![Built With Love](https://img.shields.io/badge/built%20with-love-red) ![License](https://img.shields.io/badge/license-MIT-green)
+![Built With Love](https://img.shields.io/badge/built%20with-love-red)
 
 ---
 
@@ -35,11 +35,9 @@ It supports live code preview, syntax highlighting, dark/light mode, and PDF exp
 
 ## 🎬 Demonstration Video
 
-Click on the thumbnail to watch the demo:
 
 [![CodeMentor AI Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/YOUTUBE_VIDEO_ID)
 
-*Replace `YOUTUBE_VIDEO_ID` with your actual YouTube video ID.*
 
 ---
 

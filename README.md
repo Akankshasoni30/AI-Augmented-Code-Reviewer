@@ -37,7 +37,7 @@ CodeMentor AI is an AI-powered tool that helps developers write better code by p
 <h3>🤍 Light Mode</h3>
 <img src="https://github.com/user-attachments/assets/acbea50a-b8d8-4813-85a5-eb0093afed1d" width="500" alt="Light Mode Screenshot"/>
 
-<h3>💻 Code Input</h35
+<h3>💻 Code Input</h3>
 <img src="https://github.com/user-attachments/assets/ff1e5475-e6b8-4490-a222-798ae8647034" width="500" alt="Code Input Screen"/>
 
 <h3>📊 Review Output</h3>

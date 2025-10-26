@@ -30,7 +30,19 @@ CodeMentor AI is an AI-powered tool that helps developers write better code by p
 ---
 
 ## Screenshots
-![Code Input](./screenshots/code-input.png)
-![AI Review](./screenshots/ai-review.png)
+
+![CodeMentor AI - Dark Mode](<img width="1607" height="868" alt="dark-mode -app" src="https://github.com/user-attachments/assets/abe15d9a-da54-4b64-8332-973a5c7f172d" />
+
+)
+
+![CodeMentor AI - Light Mode](<<img width="1073" height="842" alt="codementor - light" src="https://github.com/user-attachments/assets/acbea50a-b8d8-4813-85a5-eb0093afed1d" />
+" />
+
+)
+
+![Code Input](<img width="1055" height="857" alt="code-input screen" src="https://github.com/user-attachments/assets/7f86fbe9-8c5c-4105-aa7f-cd1b9e03b2b0" />
+)
+![CodeMentor AI Review](<img width="1067" height="813" alt="code review and input together zoom" src="https://github.com/user-attachments/assets/8d766e9e-5ff0-4727-923d-5b48c843a06b" />
+)
 
 

@@ -8,8 +8,8 @@ const App = () => {
   const [review, setReview] = useState("");
   const [loading, setLoading] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
-
   const [leftWidth, setLeftWidth] = useState(50);
+
   const containerRef = useRef(null);
   const isDragging = useRef(false);
 
@@ -81,7 +81,14 @@ const App = () => {
   return (
     <div className={`app-container ${darkMode ? "dark" : "light"}`}>
       <header className="app-header">
-        <h1>CodeMentor AI</h1>
+        <div className="logo-section">
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png"
+            alt="CodeMentor AI Logo"
+            className="app-logo"
+          />
+          <h1>CodeMentor AI</h1>
+        </div>
 
         <div className="header-actions">
           <label className="switch">
@@ -140,11 +147,6 @@ const App = () => {
 };
 
 export default App;
-
-
-
-
-
 
 
 

@@ -1,6 +1,6 @@
 # CodeMentor -  AI Augmented Code Reviewer
 
-##About
+About
 
 ---
  
@@ -8,7 +8,7 @@ CodeMentor AI is an AI-powered tool that helps developers write better code by p
 
  · [Report Bug](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues) · [Request Feature](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues)
 
- ##Features
+ Features
  
  ---
  

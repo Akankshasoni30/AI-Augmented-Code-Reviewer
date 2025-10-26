@@ -298,4 +298,15 @@ transition: all 0.2s;
     font-size: 0.85rem;
     color: gray;
 }
+.logo-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.app-logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+}
 

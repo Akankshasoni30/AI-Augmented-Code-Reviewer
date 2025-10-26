@@ -35,7 +35,9 @@ It supports live code preview, syntax highlighting, dark/light mode, and PDF exp
 
 ## 🎬 Demonstration 
 
-[![CodeMentor AI Demo](https://img.youtube.com/vi/uNpKUUlIoM4/0.jpg)](https://youtu.be/uNpKUUlIoM4?si=zIpQNi7ioIUUpPVw)
+<p align="center">
+  Watch the demo on <a href="https://youtu.be/uNpKUUlIoM4?si=zIpQNi7ioIUUpPVw">YouTube 🎥</a>
+</p>
 
 ---
 

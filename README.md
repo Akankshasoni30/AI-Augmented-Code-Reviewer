@@ -1,17 +1,20 @@
-# CodeMentor -  AI Augmented Code Reviewer
+# CodeMentor AI - Augmented Code Reviewer
 
-About
+![Built With Love](https://img.shields.io/badge/built%20with-love-red) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
- 
-CodeMentor AI is an AI-powered tool that helps developers write better code by providing instant reviews, best practice suggestions, performance tips, and security checks. It supports live code preview, syntax highlighting, dark/light mode, and PDF export of reviews.
 
- · [Report Bug](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues) · [Request Feature](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues)
+## About
 
- Features
- 
- ---
- 
+CodeMentor AI is an **AI-powered tool** that helps developers write better code by providing instant reviews, best practice suggestions, performance tips, and security checks.  
+It supports live code preview, syntax highlighting, dark/light mode, and PDF export of reviews.
+
+[Report Bug](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues) · [Request Feature](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues)
+
+---
+
+## Features
+
 - **AI Code Review:** Analyze code for readability, best practices, and performance.
 - **Syntax Highlighting:** Code preview using Prism.js.
 - **Light/Dark Mode:** Toggle themes.
@@ -23,9 +26,20 @@ CodeMentor AI is an AI-powered tool that helps developers write better code by p
 ---
 
 ## Built With
+
 - **Frontend:** [React](https://react.dev/learn), [Prism.js](https://prismjs.com/)  
 - **Backend:** [Node.js](https://nodejs.org/en/download), [Express](https://expressjs.com/)  
-- **AI Engine:** [Google Gemini AI Studio ](https://aistudio.google.com/)
+- **AI Engine:** [Google Gemini AI Studio](https://aistudio.google.com/)
+
+---
+
+## 🎬 Demonstration Video
+
+Click on the thumbnail to watch the demo:
+
+[![CodeMentor AI Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/YOUTUBE_VIDEO_ID)
+
+*Replace `YOUTUBE_VIDEO_ID` with your actual YouTube video ID.*
 
 ---
 
@@ -50,8 +64,5 @@ CodeMentor AI is an AI-powered tool that helps developers write better code by p
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0fb3c097-f309-4e2a-88cf-3449b56f9ccb" width="500" alt="Code Review Screen"/>
 </div>
-
-
-
 
 

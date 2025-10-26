@@ -22,7 +22,7 @@ const ReviewDisplay = ({ review, darkMode }) => {
   return (
     <div className={`review-display ${darkMode ? "dark" : "light"}`}>
       <div className="review-header">
-        <h2>AI Review Result</h2>
+        <h2>CodeMentor AI Review Result</h2>
         <button onClick={handleExportPDF} className="export-btn">
           📄 Export PDF
         </button>

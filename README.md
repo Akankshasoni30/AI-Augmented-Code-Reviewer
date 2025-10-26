@@ -1,6 +1,6 @@
-# AI-Augmented-Code-Reviewer
+# AI Augmented Code Reviewer
 
- About
+ 
 AI Augmented Code Reviewer is an AI-powered tool that helps developers write better code by providing instant reviews, best practice suggestions, performance tips, and security checks. It supports live code preview, syntax highlighting, dark/light mode, and PDF export of reviews.
 
  · [Report Bug](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues) · [Request Feature](https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer/issues)

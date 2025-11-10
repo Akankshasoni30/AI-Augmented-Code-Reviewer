@@ -82,7 +82,7 @@ Clone the repository and install dependencies for both frontend and backend:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/Akankshasoni30/AI-Augmented-Code-Reviewer.git
 cd project-name
 
 # Install backend dependencies

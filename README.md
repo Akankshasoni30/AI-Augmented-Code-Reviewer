@@ -63,4 +63,37 @@ It supports live code preview, syntax highlighting, dark/light mode, and PDF exp
   <img src="https://github.com/user-attachments/assets/0fb3c097-f309-4e2a-88cf-3449b56f9ccb" width="500" alt="Code Review Screen"/>
 </div>
 
+# Project Setup
+
+This project has a **frontend** (React + Vite) and a **backend** (Node.js).
+
+---
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) >= 14
+- npm (comes with Node.js) or yarn
+
+---
+
+## Installation
+
+Clone the repository and install dependencies for both frontend and backend:
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/project-name.git
+cd project-name
+
+# Install backend dependencies
+cd backend
+npm install
+node server.js
+
+# Install frontend dependencies
+cd ../frontend
+npm install
+npm run dev
+
+
 
